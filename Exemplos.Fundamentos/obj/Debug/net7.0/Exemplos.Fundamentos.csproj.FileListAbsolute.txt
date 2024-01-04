@@ -1,0 +1,15 @@
+C:\Fernando\Exemplos.Fundamentos\bin\Debug\net7.0\Exemplos.Fundamentos.exe
+C:\Fernando\Exemplos.Fundamentos\bin\Debug\net7.0\Exemplos.Fundamentos.deps.json
+C:\Fernando\Exemplos.Fundamentos\bin\Debug\net7.0\Exemplos.Fundamentos.runtimeconfig.json
+C:\Fernando\Exemplos.Fundamentos\bin\Debug\net7.0\Exemplos.Fundamentos.dll
+C:\Fernando\Exemplos.Fundamentos\bin\Debug\net7.0\Exemplos.Fundamentos.pdb
+C:\Fernando\Exemplos.Fundamentos\obj\Debug\net7.0\Exemplos.Fundamentos.csproj.AssemblyReference.cache
+C:\Fernando\Exemplos.Fundamentos\obj\Debug\net7.0\Exemplos.Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fernando\Exemplos.Fundamentos\obj\Debug\net7.0\Exemplos.Fundamentos.AssemblyInfoInputs.cache
+C:\Fernando\Exemplos.Fundamentos\obj\Debug\net7.0\Exemplos.Fundamentos.AssemblyInfo.cs
+C:\Fernando\Exemplos.Fundamentos\obj\Debug\net7.0\Exemplos.Fundamentos.csproj.CoreCompileInputs.cache
+C:\Fernando\Exemplos.Fundamentos\obj\Debug\net7.0\Exemplos.Fundamentos.dll
+C:\Fernando\Exemplos.Fundamentos\obj\Debug\net7.0\refint\Exemplos.Fundamentos.dll
+C:\Fernando\Exemplos.Fundamentos\obj\Debug\net7.0\Exemplos.Fundamentos.pdb
+C:\Fernando\Exemplos.Fundamentos\obj\Debug\net7.0\Exemplos.Fundamentos.genruntimeconfig.cache
+C:\Fernando\Exemplos.Fundamentos\obj\Debug\net7.0\ref\Exemplos.Fundamentos.dll
