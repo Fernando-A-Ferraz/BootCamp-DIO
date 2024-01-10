@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Fernando\\Exemplos.Fundamentos\\Exemplos.Fundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\Thamara\\Documents\\GitHub\\BootCamp-DIO\\Exemplos.Fundamentos\\Exemplos.Fundamentos.csproj",
       "projectName": "Exemplos.Fundamentos",
-      "projectPath": "C:\\Fernando\\Exemplos.Fundamentos\\Exemplos.Fundamentos.csproj",
+      "projectPath": "C:\\Users\\Thamara\\Documents\\GitHub\\BootCamp-DIO\\Exemplos.Fundamentos\\Exemplos.Fundamentos.csproj",
       "packagesPath": "C:\\Users\\Thamara\\.nuget\\packages\\",
-      "outputPath": "C:\\Fernando\\Exemplos.Fundamentos\\obj\\",
+      "outputPath": "C:\\Users\\Thamara\\Documents\\GitHub\\BootCamp-DIO\\Exemplos.Fundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thamara\\AppData\\Roaming\\NuGet\\NuGet.Config"
