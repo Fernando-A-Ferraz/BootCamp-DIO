@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Thamara\\Documents\\GitHub\\BootCamp-DIO\\Exemplos.Fundamentos\\Exemplos.Fundamentos.csproj": {}
+    "C:\\Users\\Thamara\\Documents\\GitHub\\BootCamp-DIO\\Exemplos.Fundamentos\\Exemplos.Fundamentos.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Thamara\\Documents\\GitHub\\BootCamp-DIO\\Exemplos.Fundamentos\\Exemplos.Fundamentos.csproj": {
+    "C:\\Users\\Thamara\\Documents\\GitHub\\BootCamp-DIO\\Exemplos.Fundamentos\\Exemplos.Fundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Thamara\\Documents\\GitHub\\BootCamp-DIO\\Exemplos.Fundamentos\\Exemplos.Fundamentos.csproj",
+        "projectUniqueName": "C:\\Users\\Thamara\\Documents\\GitHub\\BootCamp-DIO\\Exemplos.Fundamentos\\Exemplos.Fundamentos.csproj",
         "projectName": "Exemplos.Fundamentos",
-        "projectPath": "c:\\Users\\Thamara\\Documents\\GitHub\\BootCamp-DIO\\Exemplos.Fundamentos\\Exemplos.Fundamentos.csproj",
+        "projectPath": "C:\\Users\\Thamara\\Documents\\GitHub\\BootCamp-DIO\\Exemplos.Fundamentos\\Exemplos.Fundamentos.csproj",
         "packagesPath": "C:\\Users\\Thamara\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Thamara\\Documents\\GitHub\\BootCamp-DIO\\Exemplos.Fundamentos\\obj\\",
+        "outputPath": "C:\\Users\\Thamara\\Documents\\GitHub\\BootCamp-DIO\\Exemplos.Fundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thamara\\AppData\\Roaming\\NuGet\\NuGet.Config"
